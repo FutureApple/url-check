@@ -1,6 +1,6 @@
 # URL状态检测
 
-> 本工具依赖Python Requests库，再Python 3版本中运行
+> 本工具依赖Python Requests库，在Python 3版本中运行
 
 本工具可以批量区分大量链接中正常的链接和不能正常使用的链接
 
